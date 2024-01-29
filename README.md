@@ -1,5 +1,5 @@
 # Hello World
- ##Git and Github course
+ ## Git and Github course
 
  My first repository
 
