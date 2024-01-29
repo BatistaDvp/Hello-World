@@ -22,4 +22,13 @@ task list:
 
 ![Captura de tela 2023-06-02 094701](https://github.com/BatistaDvp/Hello-World/assets/121643484/8c82d8c3-5276-4853-996f-c8a226f65eb2)
 
-[Acess my github](https://github.com/BatistaDvp)https://github.com/BatistaDvp)
+[Acess my github](https://github.com/BatistaDvp)
+
+Num | Name | Grade
+---|---|---
+1|Artur|10
+2|Lucas|5
+
+table finished
+
+´document.getElementByID´
