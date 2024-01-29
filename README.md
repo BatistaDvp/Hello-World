@@ -1,7 +1,23 @@
 # Hello World
- Primeiro repositório do curso de Git e Github
+ ##Git and Github course
 
-hello world
+ My first repository
 
-Essa linha eu adicionei diretamente no site!
+ Learning **Markdown** language in "Curso em Video" Git and Github course
+
+ 1. Test
+ 2. Teste2
+    1. Teste3
+       1. teste 5
+ 999. Teste4
+
+      
+task list:
+-[] criar a pagina principal
+-[] criar pagina da loja
+-[x] criar task list
+
+
+
+
 
