@@ -31,4 +31,4 @@ Num | Name | Grade
 
 table finished
 
-´document.getElementByID´
+`document.getElementByID`
